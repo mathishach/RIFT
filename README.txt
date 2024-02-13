@@ -1,0 +1,1 @@
+Der Ordner Christense_Plugin nmuss im Ordner abaqus_plugins liegen, damit ABAQUS beim Aufrufen automatisch das Plugin läd.
